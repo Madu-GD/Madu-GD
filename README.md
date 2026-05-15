@@ -6,9 +6,7 @@
 🎨 Gosto tanto do desenvolvimento Front-end quanto Back-end  
 🐍 Atualmente aprendendo Python em paralelo aos meus estudos  
 
-✨ Em 2025 fui aluna do projeto  
-:contentReference[oaicite:0]{index=0}  
-e hoje atuo como monitora no mesmo projeto, ajudando outras meninas a aprenderem tecnologia e programação.
+✨ Em 2025 fui aluna do projeto de integração de meninas na área da Tecnologia  "CodeQueens" Da Univali (Universidade do Vale do Itajaí ) e atualmente atuo como monitora no mesmo projeto, ajudando outras meninas a aprenderem tecnologia e programação.
 
 ## 🌸 Sobre mim
 - Sempre buscando aprender coisas novas
